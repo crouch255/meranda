@@ -1,0 +1,14 @@
+@media screen and (max-width: 767px) {
+    .post-entry-2 .thumbnail.fght {
+        height: 260px;
+    }
+    .post-entry-2 .contents.ghty,
+    .post-entry-2 .thumbnail.fght {
+        width: 100% !important;
+    }
+    .post-entry-2 .contents.ghty {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        padding-top: 20px !important;
+    }
+}
